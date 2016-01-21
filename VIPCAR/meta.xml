@@ -1,0 +1,5 @@
+<meta>
+    <info author="Pathfinder" name="Donator Vehicle" description="Hi" version="1.0" type="script" />
+	<script src="donatorVeh.lua" type="server" />
+	
+</meta>
